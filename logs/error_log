@@ -1,0 +1,6 @@
+[Mon Jan 18 20:24:21.079958 2016] [:error] [pid 23186] [client ::1:54440] PHP Fatal error:  Class 'WP_Query' not found in /private/var/sites/ashblog/costuming.php on line 9
+[Mon Jan 18 20:24:21.085742 2016] [:error] [pid 23186] [client ::1:54440] PHP Stack trace:
+[Mon Jan 18 20:24:21.085894 2016] [:error] [pid 23186] [client ::1:54440] PHP   1. {main}() /private/var/sites/ashblog/costuming.php:0
+[Mon Jan 18 20:24:51.547651 2016] [:error] [pid 29512] [client ::1:54455] PHP Fatal error:  Call to undefined function get_query_var() in /private/var/sites/ashblog/costuming.php on line 2
+[Mon Jan 18 20:24:51.547729 2016] [:error] [pid 29512] [client ::1:54455] PHP Stack trace:
+[Mon Jan 18 20:24:51.547800 2016] [:error] [pid 29512] [client ::1:54455] PHP   1. {main}() /private/var/sites/ashblog/costuming.php:0
